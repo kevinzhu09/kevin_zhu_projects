@@ -8,7 +8,7 @@ import psycopg2
 # Change these values below to the username/password/database name you chose. 
 databasename='postgres' 
 username='postgres' 
-password='bananas827@A'
+password='SamplePassword'
 # The host should stay as localhost and does not need to be changed unless there are special circumstances. 
 host='localhost'
 
